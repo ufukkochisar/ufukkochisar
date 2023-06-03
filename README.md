@@ -1,4 +1,4 @@
-[![MasterHead](http://www.chandigarhhelp.com/wp-content/uploads/2020/01/Top-Java-Training-Institutes-in-Chandigarh.jpg
+[![MasterHead](http://www.chandigarhhelp.com/wp-content/uploads/2020/01/Top-Java-Training-Institutes-in-Chandigarh.jpg)
 <h1 align="center">Hi 👋, I'm Ufuk Kochisar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
